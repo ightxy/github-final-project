@@ -3,7 +3,7 @@ final project for Getting Started with Git and GitHub course
 
 A calculator that calculates simple interest given principle, annual rate of interest and time period in years.
 
-##Input:
+## Input:
 
   p, principle amount
   
@@ -11,6 +11,6 @@ A calculator that calculates simple interest given principle, annual rate of int
   
   r, annual rate of interest
   
-##Output:
+## Output:
 
   simple interest = p*t*r
